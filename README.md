@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Shireen Meher 👋
+
+🎓 Graduate Student @ University of Massachusetts Amherst (MS in Computer Science)  
+💼 Former Software Developer @ Venwiz & Razorpay  
+🌐 Passionate about Distributed Systems, Databases, and Scalable Backend Architectures
+
+---
+
+## 🔧 Tech Stack
+- **Languages:** Java, Python, Golang, JavaScript  
+- **Databases:** Neo4j, MongoDB, PostgreSQL, MySQL  
+- **Frameworks & Tools:** Docker, Kubernetes, AWS, Flask, Retool, OpenSearch, Elasticsearch  
+- **Specialties:** System Design, DBMS, Operating Systems, Computer Networks
+
+---
+
+## 💡 Projects & Work Highlights
+- Built and maintained **Neo4j-based search systems** at Venwiz, optimizing relevance using vector and full-text search.
+- Developed **asynchronous AWS flows** using Lambda, SQS, and SNS to score vendor data.
+- Contributed to **payment infrastructure at Razorpay**, and merchant onboarding automation.
+- Transitioned monolith to microservices, for Terminals(payment entity) ensuring smooth migration.
+
+---
+
+## 📫 Get in Touch
+- 📧 shireenmeher296@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/ShireenMeherChirravuri)  
+- 🌍 Currently in Amherst, MA
